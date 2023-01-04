@@ -7,3 +7,5 @@ We demonstrate the use of HTML and CSS to manually code the website from scratch
 The site is not currently being hosted, but the HTML, CSS, bootstrap and PHP code may be perused within the PHP files in this repository. 
 
 The .sql file contains the script to create and populate the database. 
+
+/
